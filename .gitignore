@@ -1,0 +1,5 @@
+# Intellij Idea project files
+.idea
+
+#Sublime SFTP config file
+sftp-config.json
