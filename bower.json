@@ -1,17 +1,16 @@
 {
   "name": "style-outline",
-  "version": "0.0.1",
   "main": "index.js",
   "description": "Debug your CSS layers easily",
   "keywords": [
-    "javascript"
+    "javascript",
+    "style-outline"
   ],
   "authors": [
     "Roman Stremedlovskyi <stremann@yahoo.com>"
   ],
   "license": "MIT",
   "repository": {
-    "type": "git",
-    "url": "https://git.epam.com/roman_stremedlovskyi/js_mentoring_kyiv_2015.git"
+    "type": "git"
   }
 }
