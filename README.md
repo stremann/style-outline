@@ -23,6 +23,10 @@ They can be used directly without a bundler and are thus compatible with many po
 For example, you can drop a UMD build as a [`<script>` tag](https://unpkg.com/style-outline/dist/style-outline.js) on the page. 
 The UMD builds make Style Outline available as a `window.StyleOutline` global variable.
 
+```js
+window.StyleOutline.default();
+```
+
 The Style Outline source code is written in ES2015 but it is precompiled both CommonJS and UMD builds to ES5 so they work in [any modern browser](http://caniuse.com/#feat=es5). 
 
 Note that unlike Style Outline itself, packages in the Style Outline ecosystem don't provide UMD builds, so it is recommended using CommonJS module bundlers like [Webpack](http://webpack.github.io) and [Browserify](http://browserify.org/) for the most comfortable development experience.
