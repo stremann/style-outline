@@ -1,9 +1,5 @@
-## 0.1.0 (January 25, 2016)
+Change Log
+======
 
-Features:
-
-  - added git tag
-
-Bugfixes:
-
-  - cleaned bower.json
+This project adheres to [Semantic Versioning](http://semver.org/).
+Every release is documented on the GitHub [Releases](https://github.com/stremann/style-outline/releases) page.
