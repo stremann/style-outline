@@ -2,6 +2,7 @@ Style Outline
 =============
 Debug your CSS layers easily.
 
+[![build status](https://travis-ci.org/stremann/style-outline.svg?branch=master)](https://travis-ci.org/stremann/style-outline)
 [![npm version](https://img.shields.io/npm/v/style-outline.svg)](https://www.npmjs.com/package/style-outline)
 [![npm downloads](https://img.shields.io/npm/dm/style-outline.svg?style=flat-square)](https://www.npmjs.com/package/style-outline)
 
@@ -28,7 +29,7 @@ Note that unlike Style Outline itself, packages in the Style Outline ecosystem d
 
 ### Gist
 
-The only thing ou need is to invoke *outline* function when page is loaded.
+The only thing you need is to invoke *outline* function when page is loaded.
 
 ```js
 import outline from 'style-outline';
