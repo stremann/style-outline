@@ -10,7 +10,7 @@ Debug your CSS layers easily.
 To install the stable version:
 
 ```
-npm install --save style-outline
+npm install --save-dev style-outline
 ```
 
 This assumes you are using [npm](https://www.npmjs.com/) as your package manager.  
@@ -23,10 +23,6 @@ For example, you can drop a UMD build as a [`<script>` tag](https://unpkg.com/st
 The UMD builds make Style Outline available as a `window.StyleOutline` global variable.
 
 The Style Outline source code is written in ES2015 but it is precompiled both CommonJS and UMD builds to ES5 so they work in [any modern browser](http://caniuse.com/#feat=es5). 
-
-```
-npm install --save-dev react-style-outline
-```
 
 Note that unlike Style Outline itself, packages in the Style Outline ecosystem don't provide UMD builds, so it is recommended using CommonJS module bundlers like [Webpack](http://webpack.github.io) and [Browserify](http://browserify.org/) for the most comfortable development experience.
 
