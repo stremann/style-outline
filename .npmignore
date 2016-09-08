@@ -9,3 +9,6 @@ webpack.config.js
 
 # Linter config
 .eslintrc.js
+
+# CI config
+.travis.yml
